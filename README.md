@@ -1,7 +1,7 @@
 # Hi there 👋
-## I am a student in ASU's HSE program 
+## I am a graduate student MS-AIB at ASU's W.P. Carey School of Business
 
-### I am studying Human Systems Engineering full time and working full time. 
+### I have my BS in Human System Engineering - User Experience 
 ### After graduation, I plan on continuing my career path and focusing on improving the interactions between humans and technology. 
 My favorite thing about coding is the typing! I love the sound of the keyboard and the rythmic :sparkles: click-clack :sparkles: of the keys.
 
