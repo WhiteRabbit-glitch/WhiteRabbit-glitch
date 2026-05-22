@@ -1,28 +1,21 @@
-# Hi there 👋
-## I am a graduate student MS-AIB at ASU's W.P. Carey School of Business
+# Chandra Carr
 
-### I have my BS in Human System Engineering - User Experience 
-### After graduation, I plan on continuing my career path and focusing on improving the interactions between humans and technology. 
-My favorite thing about coding is the typing! I love the sound of the keyboard and the rythmic :sparkles: click-clack :sparkles: of the keys.
+AI Consultant. Founder of **OPZET LLC**. MS in AI in Business from ASU W. P. Carey, BS in Human Systems Engineering with a UX focus.
 
-- 🌱 Current hobbies: Gardening, Kayaking, ceramic sculpting, watercolor painting, and video games.
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: Elephants can purr like cats.
-- 📫 My LinkedIn: [Chandra Carr](https://www.linkedin.com/in/chandragcarr/)
+I spent a decade in small business operations before grad school, four years of that running P&L. That's why my AI work starts with the person using it, not the model powering it.
 
 ---
-<!--
-**WhiteRabbit-glitch/WhiteRabbit-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### what's here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://profile-counter.glitch.me/{WhiteRabbit-glitch}/count.svg" alt="WhiteRabbit-glitch :: Visitor's Count" />
+Agentic pipelines, ML with interpretability built in, Next.js tooling, home automation, and an Arduino that monitors my plants more reliably than I do.
+
+---
+
+### stack
+
+`Python` · `CrewAI` · `LangChain` · `Next.js` · `Tailwind` · `Ollama` · `Home Assistant` · `Arduino`
+
+---
+
+🌐 [opzetintent.com](https://opzetintent.com) · 💼 [LinkedIn](https://www.linkedin.com/in/chandracarr)
