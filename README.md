@@ -35,16 +35,6 @@ An explorer of strange systems, beautiful interfaces, and the occasional digital
 
 </div>
 
-## 🜃 Signs and statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=WhiteRabbit-glitch&show_icons=true&hide_border=true&bg_color=2A2926&title_color=F17E54&text_color=FFFFFF&icon_color=F17E54" alt="GitHub statistics: stars, commits, pull requests, issues and contributions" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteRabbit-glitch&layout=compact&hide_border=true&bg_color=2A2926&title_color=F17E54&text_color=FFFFFF" alt="Most-used programming languages by share of code" />
-
-</div>
-
 ## 🐍 The familiar
 
 <div align="center">
