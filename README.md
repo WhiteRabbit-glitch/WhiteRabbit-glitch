@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/banner-cat.jpg" alt="A Cheshire cat painted in crimson and wine against deep indigo, yellow slit eyes and a wide white grin, beside the wordmark Whiterabbit Glitch and the line: we&#8217;re all mad here" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-cat.jpg" />
+  <img src="assets/banner.svg" alt="A Cheshire cat painted in crimson and wine against deep indigo, yellow slit eyes and a wide white grin, beside the wordmark Whiterabbit Glitch and the line: we&#8217;re all mad here. The cat slowly fades until only its eyes and grin remain, then returns." width="100%" />
+</picture>
 
 </div>
 
@@ -52,7 +55,5 @@ An explorer of strange systems, beautiful interfaces, and machines that talk bac
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=WhiteRabbit-glitch&color=B52A5C&style=flat-square&label=WANDERERS" alt="Profile view counter, labelled Wanderers" />
-
-`#080517` · `#54193A` · `#B52A5C` · `#D887A7` · `#A6C6E8` · `#EBD747` · `#F5EDF8`
 
 </div>
