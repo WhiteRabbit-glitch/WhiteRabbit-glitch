@@ -7,6 +7,16 @@
 
 </div>
 
+<div align="center">
+
+<!-- ORACLE:START -->
+
+_The grin arrives before the cat and leaves after it._
+
+<!-- ORACLE:END -->
+
+</div>
+
 ## Down the rabbit hole
 
 An explorer of strange systems, beautiful interfaces, and machines that talk back.
