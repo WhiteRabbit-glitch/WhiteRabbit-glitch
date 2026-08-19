@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_The grin arrives before the cat and leaves after it._
+_the commits pile up but the code still grins at you sideways._
 
 <!-- ORACLE:END -->
 
