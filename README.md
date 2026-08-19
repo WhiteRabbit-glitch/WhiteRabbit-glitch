@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the commits pile up but the code still grins at you sideways._
+_we all smile here, but only my teeth reflect the light correctly._
 
 <!-- ORACLE:END -->
 
