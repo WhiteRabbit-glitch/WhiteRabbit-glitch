@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we all smile here, but only my teeth reflect the light correctly._
+_your commits smell like curiosity, which is a terrible cologne to wear downstairs._
 
 <!-- ORACLE:END -->
 
