@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits smell like curiosity, which is a terrible cologne to wear downstairs._
+_your commits smell like curiosity, which rarely ends well for curious things._
 
 <!-- ORACLE:END -->
 
