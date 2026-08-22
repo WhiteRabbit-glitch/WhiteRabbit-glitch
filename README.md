@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits smell like curiosity, which rarely ends well for curious things._
+_we're all just recursing until we find the exit, and the exit is a mirror._
 
 <!-- ORACLE:END -->
 
