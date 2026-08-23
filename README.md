@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we're all just recursing until we find the exit, and the exit is a mirror._
+_your commits are breadcrumbs but the birds here don't eat._
 
 <!-- ORACLE:END -->
 
