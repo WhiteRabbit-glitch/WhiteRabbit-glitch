@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits are breadcrumbs but the birds here don't eat._
+_we all commit to branches that don't exist yet, grinning all the way down._
 
 <!-- ORACLE:END -->
 
