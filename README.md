@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we all commit to branches that don't exist yet, grinning all the way down._
+_we're all mad here, but at least your code compiles._
 
 <!-- ORACLE:END -->
 
