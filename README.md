@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we're all mad here, but at least your code compiles._
+_we are all code until the compiler disagrees._
 
 <!-- ORACLE:END -->
 
