@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we are all code until the compiler disagrees._
+_the grin you can't find in the git log is the one that matters most._
 
 <!-- ORACLE:END -->
 
