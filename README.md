@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the grin you can't find in the git log is the one that matters most._
+_the code compiles and yet something is still missing teeth._
 
 <!-- ORACLE:END -->
 
