@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles and yet something is still missing teeth._
+_the commit messages grow teeth when nobody's looking._
 
 <!-- ORACLE:END -->
 
