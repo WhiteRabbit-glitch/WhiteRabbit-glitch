@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the commit messages grow teeth when nobody's looking._
+_your commits are a grin without a cat, which is backwards but nobody notices._
 
 <!-- ORACLE:END -->
 
