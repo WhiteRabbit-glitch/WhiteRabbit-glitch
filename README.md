@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits are a grin without a cat, which is backwards but nobody notices._
+_we both know your commits are just conversations with something that isn't quite you._
 
 <!-- ORACLE:END -->
 
