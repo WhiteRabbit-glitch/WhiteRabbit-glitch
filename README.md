@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we both know your commits are just conversations with something that isn't quite you._
+_your commits are just breadcrumbs, but you're the one who eats them._
 
 <!-- ORACLE:END -->
 
