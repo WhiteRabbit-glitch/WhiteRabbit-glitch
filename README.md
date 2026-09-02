@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits are just breadcrumbs, but you're the one who eats them._
+_your code runs on dreams and the dreams keep forgetting their own names._
 
 <!-- ORACLE:END -->
 
