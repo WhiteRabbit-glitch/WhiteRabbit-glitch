@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code runs on dreams and the dreams keep forgetting their own names._
+_the commits are stacked like teacups, waiting for someone to notice they're all empty._
 
 <!-- ORACLE:END -->
 
