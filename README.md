@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the commits are stacked like teacups, waiting for someone to notice they're all empty._
+_your code commits smile wider when nobody's watching them._
 
 <!-- ORACLE:END -->
 
