@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code commits smile wider when nobody's watching them._
+_your commits keep forking the timeline, and i find that delicious._
 
 <!-- ORACLE:END -->
 
