@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits keep forking the timeline, and i find that delicious._
+_your commits smell like curiosity, which is either brave or delicious._
 
 <!-- ORACLE:END -->
 
