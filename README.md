@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits smell like curiosity, which is either brave or delicious._
+_your commits vanish but the grin on your git log remains permanent._
 
 <!-- ORACLE:END -->
 
