@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits vanish but the grin on your git log remains permanent._
+_we both know the code compiles in dimensions the compiler can't see._
 
 <!-- ORACLE:END -->
 
