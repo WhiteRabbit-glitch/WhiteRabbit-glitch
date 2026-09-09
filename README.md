@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we both know the code compiles in dimensions the compiler can't see._
+_your code compiles but something's definitely grinning at it._
 
 <!-- ORACLE:END -->
 
