@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits are breadcrumbs, but the forest keeps rearranging itself._
+_your commits smell like tea time, but the tea is code and the time is wrong._
 
 <!-- ORACLE:END -->
 
