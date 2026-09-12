@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits smell like tea time, but the tea is code and the time is wrong._
+_The commit messages spell something if you squint at them sideways._
 
 <!-- ORACLE:END -->
 
