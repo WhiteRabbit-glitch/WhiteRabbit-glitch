@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_The commit messages spell something if you squint at them sideways._
+_your code compiles but the grin remains unconvinced._
 
 <!-- ORACLE:END -->
 
