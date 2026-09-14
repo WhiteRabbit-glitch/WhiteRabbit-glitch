@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but the grin remains unconvinced._
+_your code grins wider when nobody's watching it run._
 
 <!-- ORACLE:END -->
 
