@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but your smile doesn't quite reach the corners anymore_
+_your commits are breadcrumbs but the birds forgot how to read._
 
 <!-- ORACLE:END -->
 
