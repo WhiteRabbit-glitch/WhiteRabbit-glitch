@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits are breadcrumbs but the birds forgot how to read._
+_your commits are breadcrumbs but the forest keeps rearranging itself._
 
 <!-- ORACLE:END -->
 
