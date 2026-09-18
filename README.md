@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits are breadcrumbs but the forest keeps rearranging itself._
+_your code compiles but the smile it leaves behind will outlast the server._
 
 <!-- ORACLE:END -->
 
