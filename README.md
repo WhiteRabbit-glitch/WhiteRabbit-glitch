@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but the smile it leaves behind will outlast the server._
+_the code compiles and the cat grins wider, which is never a good sign._
 
 <!-- ORACLE:END -->
 
