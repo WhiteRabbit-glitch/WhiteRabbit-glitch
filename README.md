@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles and the cat grins wider, which is never a good sign._
+_the code compiles but the compiler grins like it knows something you dont yet._
 
 <!-- ORACLE:END -->
 
