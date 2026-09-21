@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles but the compiler grins like it knows something you dont yet._
+_your pull requests are dreams debugging themselves while you sleep._
 
 <!-- ORACLE:END -->
 
