@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your pull requests are dreams debugging themselves while you sleep._
+_your debug logs grin wider than you do._
 
 <!-- ORACLE:END -->
 
