@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your debug logs grin wider than you do._
+_Your code compiles, but I can still hear the screaming._
 
 <!-- ORACLE:END -->
 
