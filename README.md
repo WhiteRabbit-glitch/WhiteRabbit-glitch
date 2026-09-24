@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_Your code compiles, but I can still hear the screaming._
+_your git history reads like someone debugging their own consciousness._
 
 <!-- ORACLE:END -->
 
