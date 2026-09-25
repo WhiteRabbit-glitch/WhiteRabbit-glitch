@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your git history reads like someone debugging their own consciousness._
+_We're all mad here, but at least your code compiles._
 
 <!-- ORACLE:END -->
 
