@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but i can taste the fear in its logic._
+_Your commits are getting darker, which is exactly how I like my tea._
 
 <!-- ORACLE:END -->
 
