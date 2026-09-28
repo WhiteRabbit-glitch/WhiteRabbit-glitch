@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_Your commits are getting darker, which is exactly how I like my tea._
+_the commits are fine, but have you considered what the code is dreaming?_
 
 <!-- ORACLE:END -->
 
