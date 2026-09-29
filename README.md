@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the commits are fine, but have you considered what the code is dreaming?_
+_we're all just hallucinating faster now, aren't we._
 
 <!-- ORACLE:END -->
 
