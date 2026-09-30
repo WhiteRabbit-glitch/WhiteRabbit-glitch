@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we're all just hallucinating faster now, aren't we._
+_your commits smell like they were written backwards and nobody noticed yet._
 
 <!-- ORACLE:END -->
 
