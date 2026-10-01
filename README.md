@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits smell like they were written backwards and nobody noticed yet._
+_your commits are just breadcrumbs, but at least you're walking in circles._
 
 <!-- ORACLE:END -->
 
