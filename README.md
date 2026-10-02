@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits are just breadcrumbs, but at least you're walking in circles._
+_your code grins wider than your confidence allows._
 
 <!-- ORACLE:END -->
 
