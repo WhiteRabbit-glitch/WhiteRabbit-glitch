@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code grins wider than your confidence allows._
+_your code compiles but something's still grinning at you from inside the mirror._
 
 <!-- ORACLE:END -->
 
