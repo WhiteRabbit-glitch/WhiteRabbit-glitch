@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but something's still grinning at you from inside the mirror._
+_Your commits are getting stranger, but at least you're consistent about it._
 
 <!-- ORACLE:END -->
 
