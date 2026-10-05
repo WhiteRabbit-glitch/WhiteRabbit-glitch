@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_Your commits are getting stranger, but at least you're consistent about it._
+_your functions keep vanishing but only at 3am when nobody's watching._
 
 <!-- ORACLE:END -->
 
