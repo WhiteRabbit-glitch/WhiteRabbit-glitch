@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your functions keep vanishing but only at 3am when nobody's watching._
+_we are all just hallucinating the same code until we aren't._
 
 <!-- ORACLE:END -->
 
