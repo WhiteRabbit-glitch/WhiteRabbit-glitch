@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we are all just hallucinating the same code until we aren't._
+_your functions return themselves but never quite the same way twice._
 
 <!-- ORACLE:END -->
 
