@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your functions return themselves but never quite the same way twice._
+_your code compiles but the compiler looks troubled, like it knows something you don't._
 
 <!-- ORACLE:END -->
 
