@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but the compiler looks troubled, like it knows something you don't._
+_Your code commits make excellent jam for the tarts, though the Queen complains about the syntax._
 
 <!-- ORACLE:END -->
 
