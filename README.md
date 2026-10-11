@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code grins back at you when you're not looking._
+_your commits are breadcrumbs, but the birds here prefer code._
 
 <!-- ORACLE:END -->
 
