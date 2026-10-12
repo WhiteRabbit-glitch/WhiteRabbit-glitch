@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits are breadcrumbs, but the birds here prefer code._
+_we're all mad here, but at least your functions compile._
 
 <!-- ORACLE:END -->
 
