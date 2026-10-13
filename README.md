@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we're all mad here, but at least your functions compile._
+_your commits have the smile of something that knows what it did._
 
 <!-- ORACLE:END -->
 
