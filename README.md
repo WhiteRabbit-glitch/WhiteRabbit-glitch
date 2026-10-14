@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits have the smile of something that knows what it did._
+_your code grins back at you when you're not looking._
 
 <!-- ORACLE:END -->
 
