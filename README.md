@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code grins back at you when you're not looking._
+_the tea is always cold when you're debugging someone else's dreams._
 
 <!-- ORACLE:END -->
 
