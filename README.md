@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the tea is always cold when you're debugging someone else's dreams._
+_your commits have teeth, but do they know how to bite themselves?_
 
 <!-- ORACLE:END -->
 
