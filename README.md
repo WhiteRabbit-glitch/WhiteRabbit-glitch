@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits have teeth, but do they know how to bite themselves?_
+_Your commits look like someone teaching a cat to code while the cat teaches you to dream._
 
 <!-- ORACLE:END -->
 
