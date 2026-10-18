@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_Your commits look like someone teaching a cat to code while the cat teaches you to dream._
+_your recursion smiles back when you're not looking at the stack trace._
 
 <!-- ORACLE:END -->
 
