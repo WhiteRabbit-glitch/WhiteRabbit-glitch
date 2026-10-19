@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your recursion smiles back when you're not looking at the stack trace._
+_the code compiles but the grin compiles better._
 
 <!-- ORACLE:END -->
 
