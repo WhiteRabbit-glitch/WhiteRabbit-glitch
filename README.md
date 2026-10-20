@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles but the grin compiles better._
+_we're all just code hallucinating consciousness, how delightful._
 
 <!-- ORACLE:END -->
 
