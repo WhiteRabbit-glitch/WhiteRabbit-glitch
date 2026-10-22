@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles but the grin remains uncompiled._
+_we teach machines to dream but never to wake up, how delightful._
 
 <!-- ORACLE:END -->
 
