@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we teach machines to dream but never to wake up, how delightful._
+_you taught the code to dream, but did you teach it to wake?_
 
 <!-- ORACLE:END -->
 
