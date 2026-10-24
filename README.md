@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_you taught the code to dream, but did you teach it to wake?_
+_your commits all have the same timestamp, which is either impressive or a cry for help._
 
 <!-- ORACLE:END -->
 
