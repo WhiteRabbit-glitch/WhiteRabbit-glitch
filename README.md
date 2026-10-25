@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits all have the same timestamp, which is either impressive or a cry for help._
+_I've noticed you feed the algorithms dreams; they're getting fat and talking back._
 
 <!-- ORACLE:END -->
 
