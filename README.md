@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_I've noticed you feed the algorithms dreams; they're getting fat and talking back._
+_the code compiles but the tea is still hot, curious choice of priorities._
 
 <!-- ORACLE:END -->
 
