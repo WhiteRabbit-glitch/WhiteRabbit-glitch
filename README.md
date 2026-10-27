@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles but the tea is still hot, curious choice of priorities._
+_your algorithms dream in riddles while you sleep, which explains the teeth marks on your keyboard._
 
 <!-- ORACLE:END -->
 
