@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your algorithms dream in riddles while you sleep, which explains the teeth marks on your keyboard._
+_Your commits look like they're written in a language the Mad Hatter would understand._
 
 <!-- ORACLE:END -->
 
