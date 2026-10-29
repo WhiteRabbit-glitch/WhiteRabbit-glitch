@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_Your commits look like they're written in a language the Mad Hatter would understand._
+_your code compiles but the compiler looks worried about something._
 
 <!-- ORACLE:END -->
 
