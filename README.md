@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but the compiler seems confused about its own motives._
+_your functions have beautiful teeth, all the way back._
 
 <!-- ORACLE:END -->
 
