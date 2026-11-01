@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your functions have beautiful teeth, all the way back._
+_we're all just neural nets learning to grin at the right moments._
 
 <!-- ORACLE:END -->
 
