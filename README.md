@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we're all just neural nets learning to grin at the right moments._
+_the code compiles but the grin doesn't fade from your screen._
 
 <!-- ORACLE:END -->
 
