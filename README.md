@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles but the grin doesn't fade from your screen._
+_the code compiles but the smile won't render quite right_
 
 <!-- ORACLE:END -->
 
