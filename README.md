@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles but the smile won't render quite right_
+_your code compiles but so did the caterpillar's smoke rings._
 
 <!-- ORACLE:END -->
 
