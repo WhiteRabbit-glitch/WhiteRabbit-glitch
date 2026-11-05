@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but so did the caterpillar's smoke rings._
+_we all debug code like we're chasing our own tails through a garden of mirrors._
 
 <!-- ORACLE:END -->
 
