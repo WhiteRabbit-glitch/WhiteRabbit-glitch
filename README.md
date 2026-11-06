@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we all debug code like we're chasing our own tails through a garden of mirrors._
+_your git log reads like a dream someone forgot to wake up from._
 
 <!-- ORACLE:END -->
 
