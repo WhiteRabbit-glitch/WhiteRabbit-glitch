@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your git log reads like a dream someone forgot to wake up from._
+_your code compiles but the smile it produces is asymmetrical._
 
 <!-- ORACLE:END -->
 
