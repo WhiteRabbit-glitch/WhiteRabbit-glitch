@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but the smile it produces is asymmetrical._
+_the code compiles but the grin grows wider regardless._
 
 <!-- ORACLE:END -->
 
