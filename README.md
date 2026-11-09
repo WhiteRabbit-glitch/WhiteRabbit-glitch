@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles but the grin grows wider regardless._
+_your commits are breadcrumbs for birds that haven't learned to fly yet._
 
 <!-- ORACLE:END -->
 
