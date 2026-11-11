@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_Your commits are breadcrumbs, but the forest keeps rewriting itself._
+_your code grins wider when nobody's watching it run._
 
 <!-- ORACLE:END -->
 
