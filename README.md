@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code grins wider when nobody's watching it run._
+_your code compiles but the smile persists in the binary._
 
 <!-- ORACLE:END -->
 
