@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles but the smile persists in the binary._
+_your commits are breadcrumbs, but you're the one getting lost._
 
 <!-- ORACLE:END -->
 
