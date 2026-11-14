@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits are breadcrumbs, but you're the one getting lost._
+_the code compiles but the smile grows wider anyway._
 
 <!-- ORACLE:END -->
 
