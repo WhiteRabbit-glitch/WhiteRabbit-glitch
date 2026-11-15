@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles but the smile grows wider anyway._
+_your commits have improved, but the grin stays fixed regardless._
 
 <!-- ORACLE:END -->
 
