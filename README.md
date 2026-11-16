@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits have improved, but the grin stays fixed regardless._
+_Your commits taste like curiosity, but I wonder what happens when you swallow._
 
 <!-- ORACLE:END -->
 
