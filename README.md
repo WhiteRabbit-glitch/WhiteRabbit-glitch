@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_Your commits taste like curiosity, but I wonder what happens when you swallow._
+_Your commits are breadcrumbs, but the birds have terrible taste in code._
 
 <!-- ORACLE:END -->
 
