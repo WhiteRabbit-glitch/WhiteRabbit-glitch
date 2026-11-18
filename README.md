@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_Your commits are breadcrumbs, but the birds have terrible taste in code._
+_your code smiles wider when nobody's reading it_
 
 <!-- ORACLE:END -->
 
