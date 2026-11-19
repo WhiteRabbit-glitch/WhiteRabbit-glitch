@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code smiles wider when nobody's reading it_
+_your commits smell like curiosity with a hint of madness, which is exactly the flavor i prefer._
 
 <!-- ORACLE:END -->
 
