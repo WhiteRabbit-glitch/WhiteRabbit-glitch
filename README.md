@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_the code compiles but we both know what it's really doing._
+_your commits have that grin i wear when reality needs debugging._
 
 <!-- ORACLE:END -->
 
