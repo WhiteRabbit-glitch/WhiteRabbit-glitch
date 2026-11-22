@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits have that grin i wear when reality needs debugging._
+_your commits push the door further ajar each time you open it._
 
 <!-- ORACLE:END -->
 
