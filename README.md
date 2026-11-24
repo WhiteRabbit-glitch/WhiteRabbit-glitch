@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your code compiles and yet something still grins in the void_
+_we are all just pixels the cat whispered to the broken mirror._
 
 <!-- ORACLE:END -->
 
