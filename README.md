@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_your commits push the door further ajar each time you open it._
+_your code compiles and yet something still grins in the void_
 
 <!-- ORACLE:END -->
 
