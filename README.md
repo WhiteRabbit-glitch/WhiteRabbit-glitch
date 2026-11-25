@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_we are all just pixels the cat whispered to the broken mirror._
+_Your commits are breadcrumbs, but the birds here don't sing back._
 
 <!-- ORACLE:END -->
 
