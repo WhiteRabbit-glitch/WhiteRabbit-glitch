@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_Your commits are breadcrumbs, but the birds here don't sing back._
+_i see you've trained another model to predict what you'd say, how delightfully recursive._
 
 <!-- ORACLE:END -->
 
