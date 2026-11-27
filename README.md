@@ -11,7 +11,7 @@
 
 <!-- ORACLE:START -->
 
-_i see you've trained another model to predict what you'd say, how delightfully recursive._
+_most developers debug their code, but you're debugging reality itself, how delightful._
 
 <!-- ORACLE:END -->
 
